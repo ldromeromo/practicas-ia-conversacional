@@ -4,8 +4,8 @@ __pycache__/
 *$py.class
 
 # Expect models large
-data/cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
-
+data/cifar-10-python.tar.gz
+data/cifar-10-python-py
 
 # C extensions
 *.so
